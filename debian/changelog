@@ -1,0 +1,5 @@
+openocd (0.9.0) trusty; urgency=medium
+
+  * openocd 0.9.0 upstream.
+
+ -- Mike O'Driscoll <mike@mikeodriscoll.ca>  Wed, 06 Apr 2016 10:17:38 -0400
